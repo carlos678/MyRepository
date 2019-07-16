@@ -4,3 +4,8 @@ Git学习
 创建版本库；git init
 查看.git文件:ls -ah
 
+注：把需要git管理的文件放到repository仓库下
+步骤：1、git add 文件名+扩展名
+      2、git commit -m "本次提交的说明"
+
+
