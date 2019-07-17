@@ -1,8 +1,2 @@
 test
-<<<<<<< HEAD
-hhhhhhhhhh
-mmmmmmm
-=======
-hhhhhhhhhh
->>>>>>> featurel
-qqqqqqqq
+
