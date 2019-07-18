@@ -1,3 +1,2 @@
 git基本语句复习
-master分支
-featurel分支1
+featurel分支
